@@ -60,7 +60,7 @@ body {
     row-gap: 48px;
 }
 
-.ul-ul .container .section-four-our-portfolio {
+.li-portfolio {
     flex-basis: calc((100% - 48px) / 3);
 }
 
